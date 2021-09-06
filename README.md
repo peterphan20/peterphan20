@@ -2,9 +2,10 @@
 My name is **Peter**, and I am a web developer currently living in Houston, TX. 🚀
 
 I recently jumped over to web developing after pursuing a career in nursing.
-Some of the things I enjoy doing outside of coding are weightlifting and video games.
+Some of the things I enjoy doing on my spare time are weightlifting and video games.
 I am learning all that I can in hopes of mastering the art of developing full stack applications 👍
 
+How to reach me: 📬 peterphan0422@gmail.com
 
 ## My Favorite Tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
